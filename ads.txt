@@ -1,0 +1,132 @@
+{
+  "status": "SUCCESS",
+  "statusCode": 200,
+  "language": "en_US",
+  "data": [
+    {
+      "isForceUpdate": false,
+      "isNormalUpdate": false,
+      "bannerAdsShow": true,
+      "interstitialAdsShow": true,
+      "nativeAdsShow": true,
+      "openAdsShow": true,
+      "rewardAdsShow": true,
+      "adType": "1",
+      "adShow": "on",
+      "interstitialAdsCount": 2,
+      "loadingTime": 3,
+      "bannerAdsId": "ca-app-pub-3940256099942544/6300978111",
+      "interstitialAdsId": "ca-app-pub-3940256099942544/1033173712",
+      "nativeAdsId": "ca-app-pub-3940256099942544/2247696110",
+      "rewardAdsId": "ca-app-pub-3940256099942544/5224354917",
+      "openAdID": "ca-app-pub-3940256099942544/9257395921",
+      "adShowCountOnMsg": "3",
+      "appName": "videocallchat",
+      "appVersion": "1.2.0",
+      "rewardAdCount": "1",
+      "rewardAdDuration": "6",
+      "updateAppUrl": "https://play.google.com/store/apps/details?id=",
+      "fbBannerAdsId": "IMG_16_9_APP_INSTALL#2312433698835503_2964944860251047",
+      "fbInterstitialAdsId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fbNativeAdsId": "IMG_16_9_APP_INSTALL#2312433698835503_2964953543583512",
+      "createdAt": "2023-04-21T11:02:38.088Z",
+      "updatedAt": "2024-05-16T05:33:10.718Z",
+      "subscriptionNote1": 1,
+      "historyPage": true,
+      "reviewScreenCount": 10,
+      "reviewEmail": "mailto:julibutani2@gmail.com",
+      "coinRewardInterstitialShow": false,
+      "in_app_product": [
+        {
+          "description": "Use App With Limited Ads Interruption, Limited Chats & Videocall access for 1 Months",
+          "id": "bron",
+          "price": 149,
+          "price_us": 5,
+          "title": "1 Month"
+        },
+        {
+          "description": "Use App Without any Ads Interruption, Access Premium Users Profile, Unlimites Chats & Videocall access for 6 Months",
+          "id": "sil",
+          "price": 799,
+          "price_us": 25,
+          "title": "6 Months"
+        },
+        {
+          "description": "Use App Without any Ads Interruption, Access Premium Users Profile, Unlimites Chats & Videocall access for 12 Months",
+          "id": "gold",
+          "price": 1399,
+          "price_us": 55,
+          "title": "12 Months"
+        }
+      ],
+      "desi_girl_image_list": [
+        "https://appmanager.appskym.com/uploaded_images/1715964718911.jpg",
+        "https://appmanager.appskym.com/uploaded_images/1715964718320.jpg"
+      ],
+      "drive_video_url": [
+        "https://drive.google.com/file/d/1v8yGeJ70evDeDC9TxISJzfYqmRayXJjm/view?usp=drivesdk",
+        "https://drive.google.com/file/d/1v9t29tmBYJGotf0cqWj3EjvQVrUHZOnq/view?usp=drivesdk"
+      ],
+      "dummy_chat": {
+        "user_screen_chat_list": [
+          "Where are you? 🔥",
+          "Are you there? ❤️"
+        ],
+        "dummy_data_chat_list": [
+          [
+            "where are you?",
+            "would you like me to have a drink?"
+          ],
+          [
+            "You're always on my mind."
+          ]
+        ],
+        "hot_icon_text_list": [  
+          "🔥",
+          "❤"
+        ],
+        "waiting_text_list": [
+          "I'm waiting for your response.",
+          "Why not send me a text?"
+        ]
+      },
+      "fb_app_id": "",
+      "fb_secret_id": "",
+      "free_ai_chat_per_day": 8,
+      "free_ai_chat_per_day_for_premium_user": 12,
+      "max_free_chat_count": 3,
+      "max_free_chat_count_in_chat_screen": 6,
+      "is_video_play_from_goolge_drive": true,
+      "ads_on_view_profile_count": 2,
+      "in_app_purchase": [
+        "bron",
+        "sil",
+        "gold"
+      ],
+      "max_free_video_call_count": 1,
+      "native_ads_count_in_list": 96,
+      "random_chat_is_on": true,
+      "payment_gateway": {
+        "in_app_purchase": true,
+        "razor_pay": true,
+        "stripe": false
+      },
+      "price": {
+        "bron": 80,
+        "gold": 700,
+        "sil": 200
+      },
+      "razor_pay": {
+        "key_id": "rzp_test_FyV8yxmroFrwkV",
+        "key_secret": "eEjDy61mO9orTBTFNPz8JTR0"
+      },
+      "stripe": {
+        "publishable_key": "pk_live_51OJaojSF3fhXblf9rofJx3L5xcSQAyk3IYswl8F2beF8CVdpOEheKKnqU4bw9oNcms8hXm4EaVdRLcVHDE22ZfwY000WMlqm00",
+        "secret_key": ""
+      },
+      "ai_chat_mood": "Romantic",
+      "ai_chat_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmaXJlYmFzZUlkIjoiLU54TldGZlgtSVFfSVpFSXVtcHIiLCJuYW1lIjoiS29kYSIsImVtYWlsIjoiICIsImlhdCI6MTcxNTE3NzA2Nn0.0ihu_ClShQbh0RGA2cqmu829x_QBU6AwKZy1nrHZwyU"
+    }
+  ],
+  "error": null
+}
